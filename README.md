@@ -17,7 +17,7 @@ My To-Do Application is a simple web-based tool for managing your tasks and stay
 
 ## Getting Started
 
-To use the application, simply visit the following link: [My To-Do Application](https://yourusername.github.io/my-todo-application/)
+To use the application, simply visit the following link: [My To-Do Application]([https://yourusername.github.io/my-todo-application/](https://vishaldubey40.github.io/toDOApplication/))
 
 ## Usage
 
